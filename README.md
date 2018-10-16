@@ -5,7 +5,7 @@
 ## How to run this project
 * If you cloned this project or imported it into your workspace, just go to the proejct folder and run with command `./mvnw spring-boot:run`, then you can access REST APIs.
 * If you want to run the runnable jar, just type `javar -jar [full_path]/BMWRest-0.0.1-SNAPSHOT.jar`, you can access REST APIs then. Please replace [full_path] with your own file system path.
-* If you can't find the runnable jar, can build it by yourself via `./mvnw clean package`, then you can find it under targer folder.
+* If you can't find the runnable jar, can build it by yourself via `./mvnw clean package`, then you can find it under target folder.
 * **_Don't need to inject data.csv before run this project, it'll be loaded into memory each time you start the server._**
 
 ### URL of three APIS(_Please replace the hostname with your own when testing_):
