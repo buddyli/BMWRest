@@ -1,4 +1,4 @@
-## This project is built on Spring Boot and managed by Maven.
+# This project is built upon Spring Boot and managed by Maven.
 
 ## All REST APIs are protected by basic authentication, the credential is "bmw/hibmw".
 
