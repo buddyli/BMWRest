@@ -8,7 +8,7 @@
 * If you can't find the runnable jar, can build it by yourself via `./mvnw clean package`, then you can find it under targer folder.
 * Don't need to inject data.csv before run this project, it'll be loaded into memory each time you start the server.
 
-### URL of three APIS(__Please replace the hostname with your own when testing__):
+### URL of three APIS(_Please replace the hostname with your own when testing_):
 
 * **Get all sessions of a vehicle in correct ordering**
 > http://localhost:8080/vehicle/sessions/TEIDFW2WBCXCGO6
